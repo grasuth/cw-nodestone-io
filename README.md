@@ -2,7 +2,7 @@
 
 Personal CW Trainer & almost a game for learning CW.
 
-Build on Angular 2 & Material & WebAudio
+Build on Angular 2 & Bootstrap & WebAudio
 
 ## Goals
 
